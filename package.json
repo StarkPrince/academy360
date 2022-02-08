@@ -15,6 +15,7 @@
     "@emotion/core": "^10.0.27",
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^10.0.27",
+    "@netlify/plugin-nextjs": "^4.2.5",
     "@popperjs/core": "^2.11.2",
     "@types/react-slick": "^0.23.8",
     "emotion-theming": "^10.0.27",
